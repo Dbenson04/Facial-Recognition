@@ -1,6 +1,5 @@
 # face_recognition.py
 
-# THIS IS FOR TASK 1 ONLY
 # Apply PCA to the Survivor faces dataset in order to reduce dimensionality 
 # while maintaining at least 90% of the original variance. You are encouraged 
 # to use the PCA methods in the scikit-learn library. Save the "model" to 

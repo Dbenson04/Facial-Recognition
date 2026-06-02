@@ -1,5 +1,4 @@
 # prof_seasons.py
-# https://chatgpt.com/share/69865d96-1c00-8002-98c4-02edf047fc20
 
 # Which season would each professor most likely be on? To answer this question, 
 # use k-means clustering on the PCA-reduced Survivor faces, then assign each of 

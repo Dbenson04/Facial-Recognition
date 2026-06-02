@@ -1,4 +1,5 @@
 # prof_winner.py
+
 # Predict which professor is most likely to win the next season of Survivor
 # To do this, we took the mean average weights of all previous winners of Survivor
 # Then, each professor is compared to the winner's mu via the euclidean distance formula 

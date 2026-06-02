@@ -1,5 +1,4 @@
 # next_host.py
-# https://chatgpt.com/share/6982b264-c038-8002-9e97-4f2034966480
 
 # Which professor is most likely to be the next host of Survivor? To answer this question, project each 
 # professor into the reduced "Survivor face space" and apply nearest neighbor classification to see who 
